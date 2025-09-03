@@ -1,0 +1,41 @@
+.style{
+    background-color: red;
+    color:white;
+    font-size: 23px;
+    font-weight: 5px;
+    display: inline-block;
+
+}
+.success{
+    background-color:red ;
+    display: inline-block;
+}
+.error{
+    background-color:yellow ;
+    display: inline-block;
+}
+.warning{
+    background-color:green;
+    display:inline-block ;
+}
+.hi{
+    color: black;
+    border: solid blue 3px;
+}
+.click{
+    border: solid black 2px;
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+}
+.rec{
+    width: 200px;
+    height: 150px;
+    background-color: goldenrod;
+}
+.circ{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
